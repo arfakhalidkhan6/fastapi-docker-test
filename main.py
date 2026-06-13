@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message": "ArtikIQ is running"}
+    return {"message": "ArtikIQ is live on Railway!"}
